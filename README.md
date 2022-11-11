@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vivek Mandava, a software engineer primarily focusing on front end of web. 
-- 👀 I’m interested in Data Structures and algorithms.
+- 👀 I’m interested in building front end projects using React.
 - 🌱 I’m currently learning Advanced Web Development.
-- 💞️ I’m looking to collaborate on front end projects which need extensive DSA.
+- 💞️ I’m looking to collaborate on front end web projects.
 - 📫 You can reach me on linkedin https://www.linkedin.com/in/vivek-m-733432242/
 
 <!---
