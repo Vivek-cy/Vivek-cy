@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vivek Mandava, a software engineer primarily focusing on front end of web. 
+- 👋 Hi, I’m Vivek Mandava, a software engineer primarily focusing on Front end and back end of web. 
 - 👀 I’m interested in building front end projects using React.
 - 🌱 I’m currently learning Advanced Web Development.
 - 💞️ I’m looking to collaborate on front end web projects.
